@@ -1,6 +1,6 @@
 # Analysis of daily contributions to 2020 presidential candidates, as of 2019 Q2
 
-This repository contains data and code supporting a [BuzzFeed News article examining donor frequency](https://www.buzzfeednews.com/article/2020-democratic-primary-donors). Published July 17, 2019. See below for details.
+This repository contains data and code supporting a [BuzzFeed News article examining donor frequency](https://www.buzzfeednews.com/article/mattberman/2020-democratic-primary-donors). Published July 17, 2019. See below for details.
 
 ## Data
 
